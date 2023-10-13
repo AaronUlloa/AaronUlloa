@@ -52,7 +52,8 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 ![GNU Emacs](http://img.shields.io/badge/-GNU%20Emacs-7F5AB6?style=flat-square&logo=gnu-emacs&logoColor=ffffff)
 ![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)
 
-[![AaronUlloa's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronulloa&show_icons=true&theme=radical)](https://github.com/aaronulloa/Frontend-Feria)
+![AaronUlloa's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronulloa&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronulloa&repo=Frontend-Feria)](https://github.com/aaronulloa/Frontend-Feria)
 <hr/>
 
 ⭐: From [@AaronUlloa](https://github.com/aaronulloa)
