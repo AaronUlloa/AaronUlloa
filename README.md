@@ -52,7 +52,7 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 ![GNU Emacs](http://img.shields.io/badge/-GNU%20Emacs-7F5AB6?style=flat-square&logo=gnu-emacs&logoColor=ffffff)
 ![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)
 
-![AaronUlloa's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronulloa&show_icons=true&theme=radical)
+[![AaronUlloa's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronulloa&show_icons=true&theme=radical)](https://github.com/aaronulloa/aaronulloa)
 <hr/>
 
 ⭐: From [@AaronUlloa](https://github.com/aaronulloa)
