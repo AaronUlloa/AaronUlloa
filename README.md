@@ -53,8 +53,10 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 ![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)
 
 <hr/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-⭐: From [@BrennanBrown](https://github.com/aaronulloa)
+<hr/>
+⭐: From [@AaronUlloa](https://github.com/aaronulloa)
 
 <!--
 **AaronUlloa/AaronUlloa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
